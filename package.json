@@ -1,0 +1,27 @@
+{
+  "name": "senderscore",
+  "version": "1.0.0",
+  "description": "node module to know your sender reputation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaykumar12527/senderscore.git"
+  },
+  "keywords": [
+    "node",
+    "senderscore"
+  ],
+  "author": "Akshay Kumar (https://akshaykumar.tech/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshaykumar12527/senderscore/issues"
+  },
+  "homepage": "https://github.com/akshaykumar12527/senderscore#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0"
+  }
+}
