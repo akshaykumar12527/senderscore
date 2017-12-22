@@ -1,6 +1,6 @@
 {
   "name": "senderscore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node module to know your sender reputation",
   "main": "index.js",
   "scripts": {
